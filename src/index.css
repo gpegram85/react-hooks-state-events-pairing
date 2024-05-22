@@ -10,3 +10,11 @@ body {
 .App {
   text-align: center;
 }
+
+.stats-wrapper {
+  padding: 2px
+}
+
+.hidden {
+  display: none;
+}
